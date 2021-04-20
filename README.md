@@ -1,2 +1,2 @@
 # tenStepsFoundation
-20.04  - + 100.00
+20.04  - + 100
